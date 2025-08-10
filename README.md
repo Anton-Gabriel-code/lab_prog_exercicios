@@ -1,3 +1,3 @@
-# Exerciicos da disciplina Laboratório de Programação 
+# Exercicios da disciplina Laboratório de Programação 
 Método avaliativo da disciplina 
 #Linguagem utilizada: Python
