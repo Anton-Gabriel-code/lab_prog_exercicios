@@ -1,2 +1,3 @@
-# lab_prog_exercicios
-Método avaliativo da disciplina de Laboratório de Programação em Python.
+# Exerciicos da disciplina Laboratório de Programação 
+Método avaliativo da disciplina 
+#Linguagem utilizada: Python
