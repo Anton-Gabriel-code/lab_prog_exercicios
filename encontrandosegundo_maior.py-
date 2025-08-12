@@ -1,0 +1,10 @@
+def segundo(lista):
+  ordem = sorted(set(lista))
+  if len(ordem) >= 2:
+    segundo_maior = ordem[-2]
+    print(segundo_maior)
+  else:
+    print("Essa lista não tem números suficientes.")
+
+numeros = [987654321,2,7654321,56,1234567, 1, 88888,3,42,999999,5,1000000000,13,101010,7,444, 9, 2, 13, 9]
+segundo(numeros)
